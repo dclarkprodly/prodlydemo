@@ -1,0 +1,13 @@
+"Guid","Description","ImageUrl","IsActive","IsCompanyWide","IsLimitPerUser","LimitNumber","LimitStartDate","Name"
+0360f150-9b94-46b1-8721-70c9c75f8620,For sharing your knowledge,https://prodly-7e.my.salesforce.com/img/rypple/Teacher.png,true,true,false,"#N/A","#N/A",Teacher
+10d3c9d8-79ac-49a2-ac5c-a38cba89872c,Thank you for your hot lead!,https://prodly-7e.my.salesforce.com/img/rypple/Lead.png,true,true,false,"#N/A","#N/A",Hot Lead
+5819ddb5-8cdd-4b4a-8d0d-e2c4c820c9b0,Success is a team sport. Thanks for playing!,https://prodly-7e.my.salesforce.com/img/rypple/Team.png,true,true,false,"#N/A","#N/A",Team Player
+70ca832e-c172-4f23-8563-2a6cf25157c1,You're crushing the competition,https://prodly-7e.my.salesforce.com/img/rypple/Competition.png,true,true,false,"#N/A","#N/A",Competition Crusher
+83724e27-e7a7-4792-bf78-f4824690b465,Thank you for going above and beyond to contribute to our success!,https://prodly-7e.my.salesforce.com/img/rypple/Thanks.png,true,true,false,"#N/A","#N/A",Thanks
+8ce11a9c-cae7-43e6-9702-f5cbe5559258,Great job on winning a great deal for the company!,https://prodly-7e.my.salesforce.com/img/rypple/KeyWin.png,true,true,false,"#N/A","#N/A",Key Win
+9c0c7dd4-5fed-4319-81f3-90a64196cbab,"Like the mailman, you deliver!",https://prodly-7e.my.salesforce.com/img/rypple/Execution.png,true,true,false,"#N/A","#N/A",All About Execution
+a40b5f01-3b41-498a-b46c-4a038e544512,The customer is always #1,https://prodly-7e.my.salesforce.com/img/rypple/Customer.png,true,true,false,"#N/A","#N/A",Customer Hero
+bfaf445c-2a75-461c-8e86-cedbb77cb548,Always be closing!,https://prodly-7e.my.salesforce.com/img/rypple/DealMaker.png,true,true,false,"#N/A","#N/A",Deal Maker
+d6644554-0ac6-489c-90a9-6e5d351d8905,For crushing your numbers!,https://prodly-7e.my.salesforce.com/img/rypple/Sales.png,true,true,false,"#N/A","#N/A",Top Performer
+f7cd6177-0326-4a81-b5f4-3c098f0b95e9,Great job - you rocked it!,https://prodly-7e.my.salesforce.com/img/rypple/RockStar.png,true,true,false,"#N/A","#N/A",You're a RockStar!
+fa3adb0a-6b7d-4328-9b6e-e549719dcd24,Sealing a great job with a gold star.,https://prodly-7e.my.salesforce.com/img/rypple/GoldStar.png,true,true,false,"#N/A","#N/A",Gold Star

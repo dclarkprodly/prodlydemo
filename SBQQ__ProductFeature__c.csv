@@ -1,0 +1,7 @@
+"Guid","Name","SBQQ__Category__c","SBQQ__ConfigurationFieldSet__c","SBQQ__DiscountSchedule__c","SBQQ__DynamicProductFilterFieldSet__c","SBQQ__DynamicProductLookupFieldSet__c","SBQQ__MaxOptionCount__c","SBQQ__MinOptionCount__c","SBQQ__Number__c","SBQQ__OptionSelectionMethod__c"
+8c6f8810-6462-419c-99ec-390ad8732054,Equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",1.0,12.0,"#N/A"
+9c4fca01-d41c-477f-aff1-26698a18f7cf,Services,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",1.0,11.0,"#N/A"
+ade27e3d-4446-4985-9a50-333bfafd27b3,Beverages,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",1.0,10.0,"#N/A"
+aebd0a5c-2d1f-4d6a-9250-d2881ab11a61,Equipment,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",1.0,12.0,"#N/A"
+e1144d5e-30d9-4edb-9a70-a77fedb0a5a5,Services,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,11.0,"#N/A"
+ed09c872-8b9f-4fb0-842f-f9a281770b90,Beverages,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",1.0,10.0,"#N/A"
