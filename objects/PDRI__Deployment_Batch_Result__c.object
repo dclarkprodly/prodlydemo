@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <compactLayouts>
+        <fullName>Deployment_Batch_Result</fullName>
+        <fields>Name</fields>
+        <fields>PDRI__Operation__c</fields>
+        <fields>PDRI__Result_Icon__c</fields>
+        <fields>PDRI__Data_Records_Processed__c</fields>
+        <fields>PDRI__Data_Records_Succeeded__c</fields>
+        <fields>PDRI__Data_Records_Failed__c</fields>
+        <fields>PDRI__Data_Set__c</fields>
+        <fields>PDRI__Data_Record_Failures__c</fields>
+        <label>Deployment Batch Result</label>
+    </compactLayouts>
+</CustomObject>
